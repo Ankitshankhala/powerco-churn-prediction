@@ -2,10 +2,10 @@
 
 This project is part of the BCG X Data Science Job Simulation on Forage. It focuses on identifying key drivers of customer churn for PowerCo, a utility provider, and building a predictive model to flag at-risk SME clients.
 
-## 🔍 Problem Statement
+##  Problem Statement
 PowerCo was facing rising churn in a competitive market. The objective was to determine whether pricing patterns and customer behavior could help predict churn, enabling proactive retention.
 
-## 📊 Project Workflow
+##  Project Workflow
 - Business understanding & hypothesis framing
 - Exploratory Data Analysis (EDA)
 - Feature engineering (price sensitivity, contract dynamics)
